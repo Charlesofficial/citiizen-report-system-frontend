@@ -1,7 +1,7 @@
 const form = document.getElementById("requestForm");
 
 // Centralized API endpoint URL
-const API_ENDPOINT = 'https://citizen-report-system-backend.onrender.com/api/v1/report';
+const API_ENDPOINT = 'https://citizen-report-system-backend-fq9f.onrender.com/api/v1/report';
 
 // Function to handle API request
 const sendReport = async (requestData) => {
